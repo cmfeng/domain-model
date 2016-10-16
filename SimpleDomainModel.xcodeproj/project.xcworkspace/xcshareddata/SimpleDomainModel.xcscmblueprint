@@ -1,5 +1,4 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7576701EB8C5AD048EFAD48A4C090D7088455A6C",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
@@ -9,12 +8,12 @@
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CD640082-BB04-4CD6-B891-453EEF5624D8",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "7576701EB8C5AD048EFAD48A4C090D7088455A6C" : "uwsimpledomainmodel\/",
-    "1DAE23FC12FCB25EFE149107E78560F41AAAB82C" : ""
+    "7576701EB8C5AD048EFAD48A4C090D7088455A6C" : "",
+    "1DAE23FC12FCB25EFE149107E78560F41AAAB82C" : ".."
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "SimpleDomainModel",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SimpleDomainModel\/SimpleDomainModel.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SimpleDomainModel.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cmfeng\/simple-calc.git",
